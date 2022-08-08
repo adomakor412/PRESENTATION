@@ -1,4 +1,4 @@
-**Directories to projects for presentations.
+**Directories to projects for presentations**
 
 Movie loops by Jim Nelson
 
